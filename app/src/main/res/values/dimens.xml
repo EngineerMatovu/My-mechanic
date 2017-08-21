@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+
+    <dimen name="floating_button_size">40dp</dimen>
+    <dimen name="floating_button_margin">16dp</dimen>
+    <dimen name="floating_button_card_radius">16dp</dimen>
+
+    <dimen name="button_elevation">2dp</dimen>
+    <dimen name="button_press_elevation">4dp</dimen>
+
+    <dimen name="card_elevation">4dp</dimen>
+    <dimen name="card_corner_radius">6dp</dimen>
+
+    <dimen name="default_text_size">16sp</dimen>
+    <dimen name="text_margin_top">72dp</dimen>
+
+
+    <dimen name="fab_margin">16dp</dimen>
+    <dimen name="card_album_radius">15dp</dimen>
+    <dimen name="image_product_height">160dp</dimen>
+    <dimen name="card_product_radius">0dp</dimen>
+    <dimen name="card_margin">5dp</dimen>
+    <dimen name="product_title_padding">10dp</dimen>
+    <dimen name="product_title">15dp</dimen>
+    <dimen name="product_price_padding_bottom">5dp</dimen>
+    <dimen name="product_price">12dp</dimen>
+    <dimen name="tabsHeight">48dp</dimen>
+    <dimen name="location_margin_top">10dp</dimen>
+    <dimen name="nav_header_height">160dp</dimen>
+</resources>
